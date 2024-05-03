@@ -15,8 +15,8 @@ https://slack.com/intl/ja-jp/help/articles/220556107-Slack-%E3%81%8B%E3%82%89%E3
   - 投稿を取得する
   - クエリパラメータ
     - word : 検索ワード
-    - from : 開始日
-    - to : 終了日
+    - since : 開始日
+    - until : 終了日
     - channel : チャンネル
   - 戻り値
     - time : 投稿日時
